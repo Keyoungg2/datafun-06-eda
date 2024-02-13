@@ -11,6 +11,16 @@ Project 6 is an opportunity to create your own custom
 exploratory data analysis (EDA) project using
 GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
 
+## Dataset 
+
+I used a loan application site database that pulled loan application information. 
+Data source: https://github.com/MainakRepositor/Datasets/blob/master/Loan%20Eligibility/loan-test.csv
+
+Data set example
+|Loan_ID|Gender|Married|Dependents|Education|Self_Employed|ApplicantIncome|CoapplicantIncome|LoanAmount|Loan_Amount_Term|Credit_History|Property_Area|
+|LP001015|Male|Yes|0|Graduate|No|5720|0|110|360|1|Urban|		
+
+
 ## External Dependencies
 
 This project will likely use at least the following external modules, so a virtual environment is recommmended.
