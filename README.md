@@ -1,8 +1,10 @@
 # Specification for Project 6 EDA Notebook
-Project objective:Create EDA Notebook
-GitHub Repository: datafun-06-eda
-Documentation: README.md
-Notebook: young_proj6_edanotebook.ipynb
+
+- Project objective:Create EDA Notebook
+- GitHub Repository: datafun-06-eda
+- Documentation: README.md
+- Notebook: young_proj6_edanotebook.ipynb
+
 ## Overview
 
 Project 6 is an opportunity to create your own custom
