@@ -14,12 +14,12 @@ GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
 ## Dataset 
 
 I used a loan application site database that pulled loan application information. 
-Data source: https://github.com/MainakRepositor/Datasets/blob/master/Loan%20Eligibility/loan-test.csv
+Data source: https://github.com/mwaskom/seaborn-data/blob/master/healthexp.csv
 
 Data set example
-|Loan_ID   |Gender |Married   |Dependents|Education|Self_Employed|ApplicantIncome|CoapplicantIncome|LoanAmount|Loan_Amount_Term|Credit_History|Property_Area|
-|----------|-------|----------|----------|---------|-------------|---------------|-----------------|----------|----------------|--------------|-------------|
-|LP001015  |Male   |Yes       |0         |Graduate |No           |5720           |0                |110       |360             |1             |Urban        |		
+|Year  |Country|Spending_USD|Life_Expectancy|
+|------|-------|----------|----------|
+|1970  |Germany|252.311|70.6|	
 
 
 ## External Dependencies
